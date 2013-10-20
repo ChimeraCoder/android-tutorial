@@ -8,5 +8,5 @@ debug:
 	ant debug
 
 install: debug
-	adb install bin/MyFirstApp-debug.apk
+	adb install -r bin/MyFirstApp-debug.apk
 	
