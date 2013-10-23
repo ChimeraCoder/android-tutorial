@@ -7,5 +7,7 @@
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
     <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="action_search">Search</string>
+    <string name="not_implemented_message">Not yet implemented</string>
 
 </resources>

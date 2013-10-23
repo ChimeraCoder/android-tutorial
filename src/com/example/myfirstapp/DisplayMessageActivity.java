@@ -36,6 +36,10 @@ public class DisplayMessageActivity extends Activity {
 
 	    // Set the text view as the activity layout
 	    setContentView(textView);
+	    
+	    //Enable the app icon as the Up button
+	    getActionBar().setDisplayHomeAsUpEnabled(true);
+	    
 	}
 
 	/**
